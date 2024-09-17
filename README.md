@@ -1,4 +1,7 @@
 # ICTP PWF tour
+
+[![DOI](https://zenodo.org/badge/203356357.svg)](https://zenodo.org/badge/latestdoi/203356357)
+
 **Peru - Ecuador - Colombia - Venezuela - Mexico (2019) workshops in Data Analysis, Computing Sciences and HEP**
 
 ### This is a series of exercises and tests for workshops under the PWF-ICTP and CEVALE2VE programs
@@ -11,6 +14,9 @@ Repo for exercises and tests for workshops (this one!)
 ## See [Class material](https://github.com/artfisica/ICTP-2019/tree/master/class-material) folder for details on the classes
 
 ## See the [Virtual Machine](https://github.com/artfisica/ICTP-2019/tree/master/vm) documentation & download
+
+
+#### The link to MyBinder is in the notebook folder (please take a look to the README in that folder for details)
 
 ------------------------
 #### Created/Started at Trieste (August 2019)
